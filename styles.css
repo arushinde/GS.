@@ -127,6 +127,7 @@ nav {
   line-height: 40rem;
   font-weight: 900;
   color: var(--primary-color);
+  z-index: -1;
 }
 
 .container img {
